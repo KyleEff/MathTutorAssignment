@@ -1,0 +1,26 @@
+Math Tutor
+Write a program that can be used as a math tutor for a young student. The program should display two random numbers (1 to 500) that are to be added, such as:
+247 + 129 =
+
+And also have the ability to perform subtraction if they choose.
+247
+- 129
+
+The program should wait for the student to enter the answer. If the answer is correct, a message of congratulations should be printed. A message showing the correct answer should be printed if the answer is incorrect.
+USER only inputs the 1 or 2 for the operation CHOICE of addition or subtraction AND the ANSWER to the question.
+The computer generates random numbers.
+Hint: Use 1 for Addition and 2 for Subtraction
+
+
+Sample Output #1:
+Would you like to Add (1) or Subtract (2) your numbers? 1
+Please answer the following:
+247 + 129 = 1000
+Your sum is: 376
+
+
+Sample Output #2:
+Would you like to Add (1) or Subtract (2) your numbers? 2
+Please answer the following:
+250 - 150 = 1
+The answer was actually: 100. 
